@@ -1,0 +1,27 @@
+<mxfile host="app.diagrams.net" modified="2024-04-22T09:56:09.278Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="k1G8HJhgh5bChrOtpmqr" version="24.2.7" type="device">
+  <diagram name="Page-1" id="qd42_cRScA-7mCduzSiI">
+    <mxGraphModel dx="1233" dy="866" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="a5YrcRE4Wecgf8cgH6mA-1" value="&lt;u&gt;Platform Interface&lt;/u&gt;&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;1. Restaurant Information (e.g. Introduction, Address, Opening Hours etc)&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;2. Pricing&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;3. Appealing images&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;4. Detailed Menu&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;5. Comments from Other Users&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;6. Rating&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;7. Discounts or Promotions&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;8. Food Descriptions&lt;/span&gt;" style="rounded=1;align=center;fontFamily=Times New Roman;fontStyle=1;html=1;" parent="1" vertex="1">
+          <mxGeometry x="29" y="157.5" width="382" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="a5YrcRE4Wecgf8cgH6mA-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="a5YrcRE4Wecgf8cgH6mA-1" target="a5YrcRE4Wecgf8cgH6mA-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="300" as="sourcePoint" />
+            <mxPoint x="410" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ukGndHKazAS3xRgWY8Nm-1" value="Predict" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="a5YrcRE4Wecgf8cgH6mA-2" vertex="1" connectable="0">
+          <mxGeometry x="0.0012" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a5YrcRE4Wecgf8cgH6mA-4" value="&lt;b&gt;&lt;u&gt;Personality traits&lt;/u&gt;&lt;/b&gt;&lt;br&gt;1. N&lt;span style=&quot;font-size:12.0pt;mso-bidi-font-size:11.0pt;&lt;br/&gt;line-height:107%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&lt;br/&gt;PMingLiU;mso-fareast-theme-font:minor-fareast;mso-ansi-language:EN-HK;&lt;br/&gt;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA&quot;&gt;euroticism (R&lt;/span&gt;&lt;span style=&quot;font-size:12.0pt;mso-bidi-font-size:11.0pt;&lt;br/&gt;line-height:107%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&lt;br/&gt;PMingLiU;mso-fareast-theme-font:minor-fareast;mso-ansi-language:EN-HK;&lt;br/&gt;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA&quot;&gt;ational consumer&lt;/span&gt;&lt;span style=&quot;font-size:12.0pt;mso-bidi-font-size:11.0pt;&lt;br/&gt;line-height:107%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&lt;br/&gt;PMingLiU;mso-fareast-theme-font:minor-fareast;mso-ansi-language:EN-HK;&lt;br/&gt;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA&quot;&gt;)&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size:12.0pt;mso-bidi-font-size:11.0pt;&lt;br/&gt;line-height:107%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&lt;br/&gt;PMingLiU;mso-fareast-theme-font:minor-fareast;mso-ansi-language:EN-HK;&lt;br/&gt;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA&quot;&gt;&lt;span style=&quot;font-size: 12pt; line-height: 107%;&quot;&gt;2. Emotional stability (Ir&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif; font-size: 12pt; background-color: initial;&quot;&gt;rational consumer)&lt;/span&gt;&lt;span style=&quot;font-size:12.0pt;mso-bidi-font-size:11.0pt;&lt;br/&gt;line-height:107%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&lt;br/&gt;PMingLiU;mso-fareast-theme-font:minor-fareast;mso-ansi-language:EN-HK;&lt;br/&gt;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;fontFamily=Times New Roman;align=center;fontStyle=0;html=1;" parent="1" vertex="1">
+          <mxGeometry x="512" y="189" width="298" height="87" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
